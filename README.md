@@ -17,5 +17,5 @@ java.util.Iterator interfaces.
 • Further developing your experience working with object oriented design code and exception
 handling.
 • Improve your experience with developing unit tests.
-The source code is inside the p07 folder.
+The source code is inside the p07 directory.
 
